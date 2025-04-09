@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="100" src="https://cdn.discordapp.com/attachments/1342448021157187605/1359442378016161884/newPFP.jpg?ex=67f77ee0&is=67f62d60&hm=5537d7992a3107861f35be7b562b41808d13e103f56e58eb85e2f2a301af94dc&"  />
-
-###
-
 <p align="left">My name is kaven and I'm from Australia. I mess around with code, Linux, game dev (mostly in Godot) and basic security stuff on Kali. Occasionally build things in Minecraft with Create mod. Just figuring things out as I go.</p>
 
 ###
