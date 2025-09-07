@@ -20,8 +20,6 @@
   ],
   "modules-right": [
     "wlr/taskbar",
-    "idle_inhibitor",
-    "pulseaudio_slider",
     "pulseaudio",
     "network",
     "hyprland/language"
@@ -33,8 +31,8 @@
     "tooltip": false
   },
   "clock": {
-    "timezone": "America/Mexico_City",
-    "format": "{:%I:%M  %d, %m}",
+    "timezone": "Australia/Melbourne",
+    "format": "{:%I:%M  %d/%m}",
     "tooltip-format": "{calendar}",
     "calendar": {
       "mode": "month"
@@ -95,11 +93,6 @@
       "activated": "",
       "deactivated": ""
     }
-  },
-  "pulseaudio_slider": {
-    "format": "{volume}%",
-    "tooltip": false,
-    "on-click": "pavucontrol"
   },
   "pulseaudio": {
     "format": "{volume}% {icon}",

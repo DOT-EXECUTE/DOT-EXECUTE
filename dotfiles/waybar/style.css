@@ -67,6 +67,10 @@ window#waybar.hidden {
   padding-right: 17px;
 }
 
+#clock {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
 
 /* Modules center */
 #workspaces {
@@ -128,6 +132,8 @@ window#waybar.hidden {
 
 #pulseaudio {
   background: #2e3440;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
 }
 
 #pulseaudio_slider {
