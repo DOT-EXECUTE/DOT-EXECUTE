@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is kaven and I'm from Australia. I mess around with code, Linux, game dev (mostly in Godot) and basic security stuff on Kali. Occasionally build things in Minecraft with Create mod. Just figuring things out as I go.</p>
+<p align="left">My name is kaven and I'm based out of oceania. I mess around with code, Linux, game dev (mostly in Godot) and basic security stuff on Kali. Occasionally build things in Minecraft with Create mod. Just figuring things out as I go.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015 (i'm older that that I swear)<br>📚 I'm currently learning C, React and type script<br>🎯 Goals: Have fun with code<br>🎲 Fun fact: I want to join the RAAF</p>
+<p align="left">✨ Programing for at least 4 years <br>📚 I'm currently learning C, React and type script<br>🎯 Goals: Have fun with code<br>🎲 Fun fact: I want to join the RAAF</p>
 
 ###
 
