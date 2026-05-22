@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is kaven and I'm based out of oceania. I mess around with code, Linux, game dev (mostly in Godot) and basic security stuff on Kali. Occasionally build things in Minecraft with Create mod. Just figuring things out as I go.</p>
+<p align="left">My name's Kaven. I build/code as a hobby. I've build a few small games and programs, in various languages.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programing for at least 4 years <br>📚 I'm currently learning C, React and type script<br>🎯 Goals: Have fun with code<br>🎲 Fun fact: I want to join the RAAF</p>
+<p align="left">✨ Making since 2019 <br>🎯 Goals: Build things <br>🎲 Fun fact: I'm a couple years from joinning the RAAF</p>
 
 ###
 
